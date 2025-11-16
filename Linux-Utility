@@ -1,1 +1,11 @@
 ## Utility Linux VM (SSH, tools, scripts)
+
+## Purpose
+
+Lightweight Linux VM used for:
+
+- SSH access
+- Network testing (ping, traceroute, curl, etc.)
+- Basic scripting (Bash, Python)
+- Future syslog receiver or monitoring agent
+- General Linux practice
