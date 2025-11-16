@@ -5,3 +5,19 @@
 - 16GB RAM (upgrading to 32-64GB planned)
 - 2TB storage SSD
 
+## Planned VMs on This Node
+- DCO1 Domain Controller (AD DS, DNS)
+- ADMIN01 (Adnin / Jumpbox)
+- UTIL01 (Linux Utility Server)
+- WSUS01 (Patch Management)
+- Security Onion
+- MAILDMZ (Email server in the DMZ)
+- AZ-CONNECT (Azure AD Connect)
+
+## What I've Learned So Far
+- Understanding how proxmox storage pools work
+- Basics of brides and how they map to physical NICs
+- How to size VM CPU/RAM based on role
+
+
+
