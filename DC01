@@ -1,1 +1,29 @@
-Domain Controller build (AD DS, DNS, GPO)
+## Domain Controller build (AD DS, DNS, GPO)
+
+## Purpose
+This Vm Provides:
+- Active Directory Domain Services (AD DS)
+- DNS for the lab environment
+- Centralized identity for users, computers, and servers
+- Group Policy management for Windows systems
+
+## VM Specs
+- Name: DC01
+- Windows server manager 
+
+## 🔹 Group Policy (Future)
+
+- Baseline security policy
+- Password policy
+- Screensaver lock / idle timeout
+- Local admin restrictions
+- WSUS Group Policy settings (once WSUS is online)
+
+## 🔹 What I’ve Learned (to be filled in)
+
+- How AD DS and DNS integrate
+- Domain/forest basics
+- OU structure best practices
+- Importance of DNS for joined machines
+
+
