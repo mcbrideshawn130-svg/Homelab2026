@@ -1,1 +1,11 @@
 ## Admin workstation with RSAT, server manager, tools
+
+## 🔹 Purpose
+
+This Windows workstation is my primary admin console inside the homelab.  
+From here I will:
+
+- Run RSAT tools (AD Users & Computers, DNS, GPMC)
+- Use Server Manager to manage `DC01` and other servers
+- Connect to Proxmox, firewall, Security Onion, and Azure portals
+- Test user experience inside the domain
